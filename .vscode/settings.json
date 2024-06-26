@@ -101,5 +101,8 @@
     "utility": "cpp",
     "initializer_list": "cpp",
     "cinttypes": "cpp"
-  }
+  },
+  "livePreview.tasks.runTaskWithExternalPreview": true,
+  "code-runner.clearPreviousOutput": true,
+  "code-runner.runInTerminal": true
 }
