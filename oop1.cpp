@@ -19,7 +19,7 @@ int main(){
 
   myClass obj3;
   obj1.age=17;
-  obj1.name="Rugamba";
+  obj1.name="Sadate Rugamba";
   cout<<" My name is"<<obj1.name<<"and i have" <<obj1.age <<"in coding"<<endl;
   cout<<" My name is"<<obj2.name<<"and i have" <<obj2.age <<"in jog"<<endl;
   cout<<" My name is"<<obj3.name<<"and i have"<<obj3.age <<"in play "<<endl;
